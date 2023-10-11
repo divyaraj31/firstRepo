@@ -1,2 +1,5 @@
 this newFileOneText
 CHANGES IN NEW FILE ONE
+
+
+changes in fifth line of newFileOneText
