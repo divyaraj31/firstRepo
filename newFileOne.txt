@@ -3,3 +3,4 @@ CHANGES IN NEW FILE ONE
 
 
 git main change
+changes in fifth line of newFileOneText
